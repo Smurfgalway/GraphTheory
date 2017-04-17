@@ -1,4 +1,6 @@
 # GraphTheory
-Project for My graph theory module in year 3
 
-This is done using <a href="https://neo4j.com/"> Neo4J </a>
+<h1>Brief on Repository</h2>
+This is a Project done for My third year module, Graph Theory 
+
+This project is done using <a href="https://neo4j.com/"> Neo4J </a>
