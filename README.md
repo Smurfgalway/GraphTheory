@@ -14,6 +14,19 @@ The graphing of this information is done using:
 * Rel types
 * Properties
 
+### Queries
+To create and use these components in Neo4J you use cypher queries.
+#### Examples of Queries used
+##### For a lecturer node
+CREATE (n:Lecturer {Name: 'Ian Mcloughlin' }) RETURN n 
+##### For a Module node
+CREATE (n:Modules {Module: 'Graph Theory' }) RETURN n
+##### For a Room node
+CREATE (n:Rooms {room: 'PF15' }) RETURN n
+##### For creating relationships
+MATCH (a:Lecturer {Name: 'Ian Mcloughlin' }), (b:Modules {Module: 'Graph Theory'}) 
+MERGE (a)-[:`Lectures`]->(b)
+
 ## Dev Experience 
 Before this module I had never heard of Neo4J so like most of this course has been it was a learning experience. Making graphs and navigating the different parts of this whole thing was interesting. 
 
