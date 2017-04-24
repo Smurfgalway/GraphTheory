@@ -5,4 +5,4 @@ This is a Project done for My third year module: Graph Theory
 This project was done using <a href="https://neo4j.com/"> Neo4J </a>
 
 
-![alt text](https://ibb.co/dA2NRQ "Main Graph")
+![alt text](http://imgur.com/3DAh3nT "Main Graph")
