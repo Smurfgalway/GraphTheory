@@ -1,11 +1,25 @@
 # GraphTheory Year 3 Project 2017
 
-<h3>Project Overview</h3>
+###Project Overview
 This is a Project done for My third year module: Graph Theory 
 This project was done using <a href="https://neo4j.com/" style=""> Neo4J </a>
-<h5>What is <a href="https://neo4j.com/" style=""> Neo4J </a> ?</h5>
-<a href="https://neo4j.com/" style=""> Neo4J </a> is a highly scalable native graph database that leverages data relationships as first-class entities, helping enterprises build intelligent applications to meet today’s evolving data challenges. It is perfect for making graphs for 
+###What is <a href="https://neo4j.com/" style=""> Neo4J </a> ?
+<a href="https://neo4j.com/" style=""> Neo4J </a> is a highly scalable native graph database that leverages data relationships as first-class entities, helping enterprises build intelligent applications to meet today’s evolving data challenges. It is perfect for making graphs for taking vast amounts of information and 
 
-<h3> Project Brief </h3>
 
+
+## Screenshots Of My Graph
+### Entire Graph
 ![alt text](http://imgur.com/3DAh3nT.png "Main Graph")
+### Rooms
+![alt text](http://imgur.com/nrH1xT2.png "Rooms")
+### Lecturers
+![alt text](http://imgur.com/uSfa01n.png "Lecturers")
+### Modules
+![alt text](http://imgur.com/2SksXRN.png "Modules")
+### Groups
+![alt text](http://imgur.com/isQPJpO.png "Groups")
+### Days
+![alt text](http://imgur.com/XMwfKLu.png "Days")
+
+
