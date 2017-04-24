@@ -14,6 +14,9 @@ The graphing of this information is done using:
 * Rel types
 * Properties
 
+## Dev Experience 
+Before this module I had never heard of Neo4J so like most of this course has been it was a learning experience. Making graphs and navigating the different parts of this whole thing was interesting. 
+
 ## Screenshots Of My Graph
 ### Entire Graph
 ![alt text](http://imgur.com/3DAh3nT.png "Main Graph")
