@@ -44,6 +44,9 @@ Before this module I had never heard of Neo4J so like most of this course has be
 ### Days
 ![alt text](http://imgur.com/XMwfKLu.png "Days")
 
+## Conclusion
+In conclusion this has been another big learning experience I have had during this course. Helping me understand other components of software better along with teaching me new concepts and approaches. The project itself has room to improve or could have been approached differently but this has very much been my own take on it. I content with the results but am always looking to improve on things.
+
 ## References
 https://neo4j.com/use-cases/
 
